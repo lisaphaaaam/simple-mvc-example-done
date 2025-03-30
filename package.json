@@ -16,10 +16,12 @@
     "compression": "^1.7.4",
     "express": "^4.21.1",
     "express-handlebars": "^8.0.1",
+    "mongodb": "^6.15.0",
     "mongoose": "^8.7.2",
     "serve-favicon": "^2.5.0"
   },
   "devDependencies": {
+    "@eslint/js": "^9.23.0",
     "eslint": "^8.57.1",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-plugin-import": "^2.31.0",
